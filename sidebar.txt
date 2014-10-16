@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[boe:home|Door43 (boe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-boe|d43-boe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-boe/archive/master.zip|d43-boe.zip]]
+
+**Recent Changes**
+{{changes>ns = boe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/boe|Ethnologue data]]
+
